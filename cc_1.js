@@ -31,3 +31,15 @@ accountBalance /= 1.5;
 console.log(accountBalance);
 accountBalance %= 5;
 console.log(accountBalance);
+
+// Scenario 4
+
+let employeeScore1 = 76;
+let employeeScore2 = 83;
+console.log(employeeScore1 > employeeScore2);
+console.log(employeeScore1 < employeeScore2);
+console.log(employeeScore1 >= employeeScore2);
+console.log(employeeScore1 <= employeeScore2);
+console.log(employeeScore1 === employeeScore2);
+console.log(employeeScore1 !== employeeScore2);
+
